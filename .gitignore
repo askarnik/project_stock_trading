@@ -1,0 +1,5 @@
+ipynb/.ipynb_checkpoints/
+data/sandp500/all_stocks_1yr.csv
+data/sandp500/all_stocks_5yr.csv
+data/sandp500/individual_stocks_5yr_TECHNICALS
+pickled_data/
