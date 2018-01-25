@@ -90,7 +90,7 @@ In order to engineer critical features, the technical calculations below are per
 
 ## Modeling
 
-In order to model our data, we will create a gridsearch pipeline that consists of the following steps to determine which parameters yield the best mean absolute scores:
+In order to model our data, we will create a gridsearch pipeline that consists of the following steps to determine which parameters yield the best mean absolute error scores:
 
 - Principal component analysis (PCA), to determine the best number of principal components
 - Kernel PCA (KPCA), to determine the best kernel and polynomial degrees (only applicable to the polynomial kernel)
